@@ -1,1 +1,1 @@
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidostling&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/Davidostling/)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidostling&show_icons=true&theme=swift&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/Davidostling/)
